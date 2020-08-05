@@ -7,10 +7,12 @@
 *.fls
 *.out
 *.toc
+*.synctex.gz
 
 ## Intermediate documents:
 *.dvi
 *-converted-to.*
+<<<<<<< HEAD
 
 ### Editor ###
 ## Vim & Emacs temp files:
@@ -21,3 +23,5 @@
 ## Mac OS X metadata files:
 *.DS_Store
 
+*.xdv
+*.fdb_latexmk
